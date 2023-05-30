@@ -33,15 +33,9 @@ Divirta-se!
 - **[Visual Studio Code](https://code.visualstudio.com/)**
 - **[Docker Hub](https://hub.docker.com/)**
 
-## Como executar o projeto
+## 🔥Como executar o projeto
 
 Para aparecer a mensagem **Full Cycle Rocks**!! no terminal, usando o Docker, execute o seguinte comando:
-
-```bash
-docker run glaucia86/fullcycle
-```
-
-Porém, se você desejar que a mensagem apareça no seu navegador, execute o seguinte comando:
 
 ```bash
 docker run glaucia86/fullcycle
@@ -52,7 +46,7 @@ O resultado será o seguinte: `Full Cycle Rocks!!`
 A imagem também está disponível no Docker Hub: **[glaucia86/fullcycle](https://hub.docker.com/r/glaucia86/fullcycle)**
 
 
-## Issues
+## ❓Issues
 
 Se você tiver algum problema com este projeto, sinta-se à vontade para abrir uma issue aqui no GitHub  **[issues page](https://github.com/glaucia86/desafio-fc-golang/issues)**
 
